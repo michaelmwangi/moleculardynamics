@@ -8,7 +8,7 @@ The integration follows the easy to understand Euler method :)
 
 Much of this is in reference to this wonderful paper:
 
-[b]A Hands-On Introduction to Molecular Dynamics[/b]
+*A Hands-On Introduction to Molecular Dynamics*
 Vincent E. Lamberti, Lloyd D. Fosdick, Elizabeth R. Jessup, and Carolyn J. C. Schauble
 Journal of Chemical Education 2002 79 (5), 601
 DOI: 10.1021/ed079p601
