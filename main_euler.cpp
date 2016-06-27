@@ -1,7 +1,7 @@
 #include <math.h>
 #include <stdio.h>
 
-const int MAX_ATOMS = 100;
+const int MAX_ATOMS = 3;
 
 using namespace std;
 
